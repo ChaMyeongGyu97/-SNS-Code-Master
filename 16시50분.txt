@@ -1,2 +1,3 @@
 cmg test commit
 버전2
+18시 07분 차명규 수정
